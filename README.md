@@ -1,4 +1,4 @@
-# amazon_reviews_sentiment_analysis
+# Clustering_and_Logistic_Regression
 This is a self-guided mini project for COMP4448 at the University of Denver
 
 ## Dataset
@@ -12,7 +12,6 @@ python 3.9
 python dependencies can be found in the requirements.txt. Run 'pip install -r requirements.txt' for dependency installation.
 
 ## To Run
-cd /path/to/Mini_Project_Sentiment_Analysis.ipynb
+cd /path/to/Mini_Project_Clustering_and_Logistic_Regression.ipynb
 
 jupyter-notebook
-# Clustering_and_Logistic_Regression
