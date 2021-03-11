@@ -3,6 +3,7 @@ This is a self-guided mini project for COMP4448 at the University of Denver
 
 ## Dataset
 diabetes2.csv on kaggle at https://www.kaggle.com/kandij/diabetes-dataset
+advertising.csv on kaggle at https://www.kaggle.com/fayomi/advertising
 
 ## Dependencies
 jupyter-notebook
